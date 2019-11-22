@@ -49,3 +49,9 @@ Os seguintes comandos foram usados para geração de carga de trabalho:
 Para testar a tolerância a falhas uma das máquinas virtuais foi reiniciada utilizando o **Vagrant** com o comando:
 
     $ vagrant reload worker2
+
+Os resultados podem ser conferidos no vídeo no YouTube: https://www.youtube.com/watch?v=lmc_ncQrZcU
+
+## Autor
+
+**Felipe Marinho - Sistemas Distribuídos 2019.2 | UFCG**

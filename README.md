@@ -52,6 +52,8 @@ Para testar a tolerância a falhas uma das máquinas virtuais foi reiniciada uti
 
 Os resultados podem ser conferidos no vídeo no YouTube: https://www.youtube.com/watch?v=lmc_ncQrZcU
 
+Slide: https://drive.google.com/open?id=0B9wriEyRiUvES2xmME9aLWp4TlVYU2FFbWUyN2ZHTWZ4UjM4
+
 ## Autor
 
 **Felipe Marinho - Sistemas Distribuídos 2019.2 | UFCG**
